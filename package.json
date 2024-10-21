@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/spayka/",
+    "build": "vite build --base=/spayka-dev-pj/",
     "preview": "vite preview"
   },
   "devDependencies": {
